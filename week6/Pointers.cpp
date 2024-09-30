@@ -15,7 +15,6 @@ class Student {
 int main()
 {
     Student *students = new Student[3];
-
     students[0].name = "Alice";
     students[0].age = 20;
     students[1].name = "Ben";
